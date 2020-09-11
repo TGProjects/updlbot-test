@@ -1,0 +1,11 @@
+aiohttp
+beautifulsoup4
+hachoir
+numpy
+Pillow
+https://github.com/pyrogram/pyrogram/archive/asyncio-dev.zip
+requests
+tgcrypto
+youtube-dl
+sqlalchemy
+psycopg2-binary
